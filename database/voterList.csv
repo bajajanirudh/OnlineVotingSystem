@@ -1,0 +1,11 @@
+,voter_id,Name,Gender,Zone,City,Passw,hasVoted
+0,10001,test,Male,West,Gandhinagar,abcd,0
+1,10002,test2,Female,South,Surat,abcd,0
+2,10003,test3,Male,East,Surat,abcd,0
+3,10004,test4,Female,East,Gandhinagar,abcd,0
+4,10005,test5,Male,North,Bengaluru,abcd,0
+5,10006,Anirudh,Male,Jodhpur,Rajasthan,123456,0
+6,10007,Ayush,Male,"IIT Jodhpur, Rajasthan",0x82d447bD31780460084F5F4dd5032921580c7bFd,123456789,0
+7,10008,harsh,Male,IIT,nxksnxakxn,12345,0
+8,10009,Harshita,Female,IITJ,0x82d447bD31780460084F5F4dd5032921580c7bFd,123987,0
+9,10010,bajaj,Male,iit,0x82d447bD31780460084F5F4dd5032921580c7bFd,123654,1
