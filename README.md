@@ -1,5 +1,5 @@
 # OnlineVotingSystem
-It is a desktop application made with socket programming in Python. It uses synchronous multithreading, blockchain methods, random security key generation.
+It is a desktop application made with socket programming in Python. It uses flask, synchronous multithreading, blockchain methods.
 
 ## Motivation
 Illiteracy is not the only reason for low percentage voting in India. None of us wants to wake up early in the morning to stand in long queues in the sun to cast a vote. So we are developing a Online Voting System which will enable people to cast their vote while sitting in the home.
